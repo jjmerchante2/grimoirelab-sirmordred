@@ -1,5 +1,14 @@
 # Releases
 
+## sirmordred 0.3.2 - (2022-07-12)
+
+**Bug fixes:**
+
+ * [git] pair-programming activation fixed\
+   Git pair-programming can be activated if the data source contains a
+   tag like `[git:pair]`
+
+
 ## Sir Mordred 0.3.1 - (2022-06-28)
 
 **Others:**
